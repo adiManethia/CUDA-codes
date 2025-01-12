@@ -2,3 +2,6 @@ vector_add.exe
 vector_add.exp
 vector_add.lib
 
+matmul.exe
+matmul.exp
+matmul.lib
