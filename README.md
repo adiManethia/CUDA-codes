@@ -1,4 +1,4 @@
-# CUDA and PyTorch Matrix Operations
+# CUDA and PyTorch Operations
 
 This repository contains CUDA and PyTorch-based implementations for matrix operations and performance comparisons. It includes:
 
